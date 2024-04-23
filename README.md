@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This code is depricated in favor of [Dauthi](https://github.com/emptynebuli/dauthi).
+
 # rustyIron
 
 This tool represents a communication framework for navigating MobileIron's MDM authentication methods, allowing for account enumeration, single-factor authentication attacks, and message decryption.
